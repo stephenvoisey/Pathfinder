@@ -1,0 +1,10 @@
+email: stephen@pathfinder.agency
+access:
+  admin:
+    login: true
+    super: true
+  site:
+    login: true
+fullname: 'Stephen Voisey'
+title: 'Digital Consultant'
+hashed_password: $2y$10$H3v1WNCsTZ/qwgtGGtNN..hiKjUAtU8cRXUmWvJXl69SvGghl3eSu
