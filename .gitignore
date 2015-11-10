@@ -2,6 +2,9 @@
 .composer
 vendor/
 
+# Codekit
+config.codekit
+
 # Sass
 .sass-cache
 
